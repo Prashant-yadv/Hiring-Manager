@@ -1,0 +1,1 @@
+HR Hiring System – Streamlined Recruitment for Modern Teams A full-featured platform for hiring managers and HR teams to manage candidates, resumes, interviews, offers, and onboarding in one place. Track HR metrics, automate workflows, and make data-driven hiring decisions—all with a simple, intuitive interface.
