@@ -1,8 +1,3 @@
-Love this project choice—this is **very portfolio-worthy** 👌
-Here’s a **clean, professional, recruiter-friendly README** that you can directly use on GitHub. It’s structured the way hiring managers and evaluators expect.
-
----
-
 # 🚀 HR Hiring System
 
 ### Streamlined Recruitment Platform for Modern HR Teams
